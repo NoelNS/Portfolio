@@ -36,3 +36,24 @@ nav a {
     font-size: 1.5rem;
     margin: 5px;
 }
+
+main{
+    width: 90%;
+    margin: 20px auto;
+}
+
+section {
+    display: flex;
+    margin: 20px auto;
+}
+
+aside {
+    width: 23%;
+    font-size: 2.5rem;
+    border-right: 5px solid #000;
+}
+
+section div {
+    width: 70%;
+    padding-left: 10px;
+}
